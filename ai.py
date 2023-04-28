@@ -4,7 +4,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains import ConversationalRetrievalChain
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 from langchain.chat_models import ChatOpenAI
 llm = ChatOpenAI(temperature=0,model_name="gpt-4")
 
