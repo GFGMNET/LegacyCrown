@@ -1,5 +1,8 @@
-langchain
 openai
-streamlit
-tkinter
+langchain
+chromadb
+tiktoken
+pypdf
+unstructured
+gradio
 pyinstaller
